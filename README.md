@@ -2,7 +2,9 @@
 
 **Course**: BC2406 Analytics I: Visual and Predictive Analytics  
 **Semester**: AY24/25 Sem 1  
+
 **Project**: Hospital Length of Stay Estimation at Admission
+
 **Assessment Type**: Computer-Based Assessment (Individual Project)
 
 ---
